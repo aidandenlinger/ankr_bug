@@ -1,0 +1,67 @@
+[
+  {
+    "blockchain": "eth_sepolia",
+    "tokenName": "Ethereum Testnet Sepolia",
+    "tokenSymbol": "ETH",
+    "tokenDecimals": 18,
+    "tokenType": "NATIVE",
+    "holderAddress": "0xd60d9aa2c3fd053e50e1f518bad20366325a7291",
+    "balance": "0.499121746074100998",
+    "balanceRawInteger": "499121746074100998",
+    "balanceUsd": "0",
+    "tokenPrice": "0",
+    "thumbnail": "https://chainlist.onerpc.com/assets/blockchains/eth.svg"
+  },
+  {
+    "blockchain": "eth_sepolia",
+    "tokenName": "ETH",
+    "tokenSymbol": "ETH",
+    "tokenDecimals": 18,
+    "tokenType": "NATIVE",
+    "holderAddress": "0xd60d9aa2c3fd053e50e1f518bad20366325a7291",
+    "balance": "0.499121746074100998",
+    "balanceRawInteger": "499121746074100998",
+    "balanceUsd": "0",
+    "tokenPrice": "0",
+    "thumbnail": "https://chainlist.onerpc.com/assets/blockchains/eth.svg"
+  },
+  {
+    "blockchain": "eth_sepolia",
+    "tokenName": "ETH",
+    "tokenSymbol": "ETH",
+    "tokenDecimals": 18,
+    "tokenType": "NATIVE",
+    "holderAddress": "0xd60d9aa2c3fd053e50e1f518bad20366325a7291",
+    "balance": "0.499121746074100998",
+    "balanceRawInteger": "499121746074100998",
+    "balanceUsd": "0",
+    "tokenPrice": "0",
+    "thumbnail": "https://chainlist.onerpc.com/assets/blockchains/eth.svg"
+  },
+  {
+    "blockchain": "eth_sepolia",
+    "tokenName": "ETH",
+    "tokenSymbol": "ETH",
+    "tokenDecimals": 18,
+    "tokenType": "NATIVE",
+    "holderAddress": "0xd60d9aa2c3fd053e50e1f518bad20366325a7291",
+    "balance": "0.499121746074100998",
+    "balanceRawInteger": "499121746074100998",
+    "balanceUsd": "0",
+    "tokenPrice": "0",
+    "thumbnail": "https://chainlist.onerpc.com/assets/blockchains/eth.svg"
+  },
+  {
+    "blockchain": "eth_sepolia",
+    "tokenName": "ETH",
+    "tokenSymbol": "ETH",
+    "tokenDecimals": 18,
+    "tokenType": "NATIVE",
+    "holderAddress": "0xd60d9aa2c3fd053e50e1f518bad20366325a7291",
+    "balance": "0.499121746074100998",
+    "balanceRawInteger": "499121746074100998",
+    "balanceUsd": "0",
+    "tokenPrice": "0",
+    "thumbnail": "https://chainlist.onerpc.com/assets/blockchains/eth.svg"
+  }
+]
